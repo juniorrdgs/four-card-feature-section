@@ -16,7 +16,7 @@ Esta é uma resolução para o [Four card feature section challenge on Frontend 
 Projeto desenvolvido para treino e auxílio no desenvolvimento das habilidades com HTML e CSS.
 
 ### Screenshot
-![](./assets/images/screenshot.jpg)
+![](./assets/images/screenshot.png)
 
 ### Links
 - Endereço da Solução: [Respositório em meu GitHub](https://github.com/juniorrdgs/four-card-feature-section)
